@@ -1,3 +1,4 @@
+#idea
 >booking system 
 >心理
 - - - 
@@ -7,6 +8,6 @@
   - card game 
   - 主機店/game
     - 2000fun
-    - b to c not c 3 b
+    - b 2 c not c 2 b (passive)
   - 酒吧
   
