@@ -1,49 +1,71 @@
-# idea
-```to be added later ```
+# *THINGS TO DO*
 ***
 
-# game + openrice + booking(5%)
-# fee
-  - ad, booking system, rating system,
-  - pickmestudiohk.com
+# 分工
+  - Matthew
+     - usage
+     - program
 
-# 方向
-  - Structure
-  - Planning
-  - Competitor
-  - Fund usage
+  - Vicky
+    - ppt
+    - design
 
-# Bp  
-# summary
+  - Justin
+    - data research
+
+  - Hugo
+    - market research
+
+- - -
+
+# Summary Business Plan  
+# Executive Summary (Matthew)
   - ### 理念
     - ##### vision
     - ##### target
-  - ### industry anslyis
-    - ###### google
-  - ### market anslyis
-    - ###### 對手
-    - ###### PESTLE (對手)
-    - ###### questionnair
-    - ###### market reseach (with data)
-    - ###### 4Cs
-      - ###### customs
-      - ###### cost
-      - ###### commution
-      - ###### C????
-    - ###### income and cost(***)
-  - ### 4p
-    - ###### price
-    - ###### produce
-    - ###### place
-    - ###### promotion
-  - ### 運作
-    - ##### time and sch
-  - ### 分工
-    - ###### dept
-  - ### milestone
-    - ###### time and date
-  - ### 資金運用
 
+# Industry Analysis (Justin)
+  - ###### google
 
-# PPT
-# vision
+# Company and Production Description (Matthew & Vicky[design])
+  - ### 特點
+
+# Market Analysis (Competitor Analysis) (Hugo)
+  - ### 對手
+    - ###### 特點
+    - ###### selling point
+
+  - ### PESTLE Analysis (對手)
+    - ###### Political
+    - ###### Economic
+    - ###### Social
+    - ###### Technological
+    - ###### Legal
+
+  - ### questionnaire (Justin)
+    - ###### google form
+
+  - ### market research (Justin)
+    - ***(with data)***
+    - ###### companies opinion
+    - ###### market stakeholder percentage
+    - ###### user percentage of market
+    - ###### 對手 user percentage
+
+# Marketing Plan 4p (Matthew)
+  - ### price
+  - ### produce
+  - ### place
+  - ### promotion
+
+# Operations Plan (Vicky)
+  - ##### time and date
+
+# Overall Schedule (Vicky)
+  - ###### time and date
+
+# Management Team and Company Structure
+  - ###### department
+
+# Financial Projections
+  - ###### income and cost
