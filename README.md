@@ -30,12 +30,12 @@
 # Company and Production Description (Matthew & Vicky[design])
   - ### 特點
 
-# Market Analysis (Competitor Analysis) (Hugo)
-  - ### 對手
+# Market Analysis (Competitor Analysis) (Hugo & Justin)
+  - ### 對手 (Hugo)
     - ###### 特點
     - ###### selling point
 
-  - ### PESTLE Analysis (對手)
+  - ### PESTLE Analysis (Hugo)
     - ###### Political
     - ###### Economic
     - ###### Social
