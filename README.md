@@ -1,15 +1,49 @@
-# idea 
+# idea
 ```to be added later ```
 ***
 
-# booking system 
-# 心理健康
-# enterainmeant 
-  - borad game 
-  - party room 
-  - card game 
-  - 主機店/game
-    - 2000fun
-    - b 2 c not c 2 b (passive)
-  - 酒吧
-  
+# game + openrice + booking(5%)
+# fee
+  - ad, booking system, rating system,
+  - pickmestudiohk.com
+
+# 方向
+  - Structure
+  - Planning
+  - Competitor
+  - Fund usage
+
+# Bp  
+# summary
+  - ### 理念
+    - ##### vision
+    - ##### target
+  - ### industry anslyis
+    - ###### google
+  - ### market anslyis
+    - ###### 對手
+    - ###### PESTLE (對手)
+    - ###### questionnair
+    - ###### market reseach (with data)
+    - ###### 4Cs
+      - ###### customs
+      - ###### cost
+      - ###### commution
+      - ###### C????
+    - ###### income and cost(***)
+  - ### 4p
+    - ###### price
+    - ###### produce
+    - ###### place
+    - ###### promotion
+  - ### 運作
+    - ##### time and sch
+  - ### 分工
+    - ###### dept
+  - ### milestone
+    - ###### time and date
+  - ### 資金運用
+
+
+# PPT
+# vision
