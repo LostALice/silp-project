@@ -19,16 +19,20 @@
 - - -
 
 # Summary Business Plan  
-# Executive Summary (Matthew)
+# Executive Summary (Matthew) [8/7]
   - ### 理念
     - ##### vision
     - ##### target
 
-# Industry Analysis (Justin)
+# Industry Analysis (Justin) [8/7]
+  - ###### questionnaire with data
+  - ###### data research
   - ###### google
+  - ###### 數據化
 
-# Company and Production Description (Matthew & Vicky[design])
+# Company and Production Description (Matthew & Vicky[design]) [8/7]
   - ### 特點
+  - ### scope
 
 # Market Analysis (Competitor Analysis) (Hugo & Justin)
   - ### 對手 (Hugo)
