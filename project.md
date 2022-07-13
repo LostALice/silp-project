@@ -195,7 +195,7 @@
             - what customers prefers
 
 - #### app detail 
-    1. choosing system 
+    1. choosing rng system 
         - by asking question, ask them what is their goal, food allergy or any other important stuffs
         - filtering food which is not suitable to user 
         - recommend food which is suitable to user health
